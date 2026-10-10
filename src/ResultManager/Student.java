@@ -1,4 +1,3 @@
-package ResultManager;
 
 public class Student {
 
