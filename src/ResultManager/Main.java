@@ -1,4 +1,3 @@
-package ResultManager;
 
 import java.util.*;
 
