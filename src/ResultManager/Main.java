@@ -50,7 +50,7 @@ public class Main {
         }
         System.out.println("\nHighest marks : "+h.marks);
 
-        System.out.println("\n===== Top practice1.Student =====");
+        System.out.println("\n===== Top Student =====");
         h.display();
 
 
