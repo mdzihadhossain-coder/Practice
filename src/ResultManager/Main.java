@@ -32,7 +32,7 @@ public class Main {
             sc.nextLine();
 
         }
-        System.out.println("\n===== practice1.Student Information =====");
+        System.out.println("\n===== Student Information =====");
         for(int i=0; i<student.length; i++){
             student[i].display();
 
